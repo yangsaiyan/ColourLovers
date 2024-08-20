@@ -12,7 +12,9 @@ Instruction!
 
 
 NodeJs to pull API(ColorLovers)
+
 Then React pull the data pulled from API(ColorLovers) by Node Js
+
 
 Unable to directly pull using react:-
 Access to fetch at 'https://www.colourlovers.com/api/colors/new?format=json' from origin 'http://localhost:3000' has been blocked by CORS policy: 
