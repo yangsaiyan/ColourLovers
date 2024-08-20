@@ -3,9 +3,13 @@ Hiredly Intern Assessment
 Instruction!
 
 1.cd intern-assessment
+
 2.npm start
+
 3.cd nodejs
+
 4.node server.js
+
 
 NodeJs to pull API(ColorLovers)
 Then React pull the data pulled from API(ColorLovers) by Node Js
