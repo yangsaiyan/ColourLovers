@@ -13,7 +13,7 @@ Instruction!
 
 NodeJs to pull API(ColorLovers)
 
-Then React pull the data pulled from API(ColorLovers) by Node Js
+Then React pull the data pulled from NodeJs
 
 
 Unable to directly pull using react:-
